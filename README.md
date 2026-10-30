@@ -1,0 +1,1 @@
+"My project is developed using Java JDK 21. I used Java Swing and AWT for the graphical interface, OOP concepts for class structure, Java Collections for managing data, and Java File Handling for local storage. The matching system uses keyword comparison and a rule-based scoring algorithm to identify possible matches."
